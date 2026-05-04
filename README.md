@@ -22,7 +22,7 @@ The dashboard helps analyze sales performance, profit, quantity, customer insigh
 - Dashboard Screenshot
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](dashboard(2).png)
+![Dashboard Screenshot](Dashboard(2).png)
 
 
 
